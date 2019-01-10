@@ -23,7 +23,6 @@ findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound, actionWhenNotFo
 
 
 
-
 // for (var i = 0; i < arr.length; i++) {
 //     if (arr[i] === "Waldo") {
 //       // console.log(i);
