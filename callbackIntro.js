@@ -18,7 +18,8 @@ function actionWhenNotFound() {
   console.log("I didn't find him :(");
 }
 
-findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound, actionWhenNotFound);
+findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound,
+  actionWhenNotFound);
 
 
 
